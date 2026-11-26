@@ -47,3 +47,9 @@
 `🏁 KEEP PUSHING  ·  CLEAN EXIT  ·  PERFECT FINISH 🏁`
 
 </div>
+
+🌱 오늘의 새싹^^
+-[v] README 만들기
+-[v] gugudan.py 파일 만들기
+-[v] turtle.py 만들기
+-[v] 생성한 repository
