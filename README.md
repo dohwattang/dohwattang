@@ -49,7 +49,7 @@
 </div>
 
 🌱 오늘의 새싹^^
--[] README 만들기
--[] gugudan.py 파일 만들기
--[] turtle.py 만들기
--[] 생성한 repository
+- [ ] README 만들기
+- [ ] gugudan.py 파일 만들기
+- [ ] turtle.py 만들기
+- [ ] 생성한 repository
